@@ -1,0 +1,8 @@
+{
+  "name": "Smart Admissions",
+  "description": "Digital school admissions management platform designed to simplify the admission process for schools, parents, students, and school administrators across Uganda and Africa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
